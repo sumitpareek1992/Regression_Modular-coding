@@ -1,0 +1,4 @@
+1) AWS Beanstalk
+2) Azure Web app
+3) Dockers + Github Action + EC2 + ECR
+4) Container Registries + Dockers + Azure web app + gitun action
